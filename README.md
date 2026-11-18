@@ -4,6 +4,7 @@
 To develop a Python program to plot and visualize time series data such as population, commodity market price, or temperature.
 
 
+
 # PROGRAM:
  
  ## Annual Population — 2015–2025
